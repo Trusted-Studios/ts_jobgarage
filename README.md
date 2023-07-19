@@ -1,6 +1,8 @@
-# FiveM Job Garage Script
+# FiveM - ts_jobgarage
 
 A simple Lua script for FiveM that enables players to gat a garage for a job and park/unpark their vehicles.
+
+Credits: https://github.com/GermanWarthog
 
 ## Config Documentation 
 
